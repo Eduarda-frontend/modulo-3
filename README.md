@@ -1,1 +1,1 @@
-Exercicio módulo 3 do curso Engenheiro front-End.
+Exercício módulo 3 do curso Engenheiro front-End.
